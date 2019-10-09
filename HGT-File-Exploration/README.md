@@ -14,3 +14,10 @@ The content in this folder is organized as follows:
 - Code
 - README
 
+**Here is one example of elevation visualization output:**<br>
+
+By visualizing the elevation data, terrain in specific region can be better reviewed and understood. This would generate potential business values in cases such as insurance property claim process etc. 
+
+The red dot in the plot corresponds to the given GPS coordinates.
+
+<img src="https://github.com/ZenithSun/Geospatial-Data-Analysis/blob/master/HGT-File-Exploration/Output/Longitude%3D-70.29492080211641%2C%20Latitude%3D-17.463855628955717.jpg" alt="drawing" width="700"/>
