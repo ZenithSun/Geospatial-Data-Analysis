@@ -8,8 +8,8 @@ import boto3
 SAMPLES = 1201 # Change this to 3601 for SRTM1
 # Set Up s3 connection session
 session = boto3.Session(
-                    aws_access_key_id='AKIA3TUDCSW4KQKGULW5',
-                    aws_secret_access_key='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',
+                    aws_access_key_id='*************',
+                    aws_secret_access_key='***********************',
                     region_name='us-east-2')
 s3 = session.resource('s3')
 curr_bucket = s3.Bucket('elevation-data-zhenyu')
